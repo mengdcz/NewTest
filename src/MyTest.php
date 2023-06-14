@@ -1,5 +1,7 @@
 <?php
 
+namespace MyTest;
+
 class MyTest{
 
 
