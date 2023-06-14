@@ -1,0 +1,16 @@
+{
+    "name": "meng/new-test",
+    "description": "meng new test",
+    "autoload": {
+        "psr-4": {
+            "Meng\\NewTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mengdechang",
+            "email": "2326945617@qq.com"
+        }
+    ],
+    "require": {}
+}
