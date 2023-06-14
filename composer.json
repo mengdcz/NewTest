@@ -1,5 +1,5 @@
 {
-    "name": "meng/new-test",
+    "name": "mengtest/new-test",
     "description": "meng new test",
     "autoload": {
         "psr-4": {
